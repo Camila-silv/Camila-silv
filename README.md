@@ -6,13 +6,12 @@
   <a href="https://www.linkedin.com/in/camila-silva-2064681b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div align="center">
   <a href="https://github.com/Camila-silv">
-    <br>
+    <br> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camila-silv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-silv&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
   
 ### Tecnologias que utilizo em meu dia a dia
-  
 #
 <div style="display: inline_block">
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

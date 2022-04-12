@@ -1,5 +1,4 @@
-### Olá, eu sou a Camila Silva &#128515;
-##
+## Olá, eu sou a Camila Silva &#128515;
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cf.silv466@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,8 +10,8 @@
 
 </div>
   
-### Tecnologias que utilizo em meu dia a dia
-#
+## Tecnologias que utilizo em meu dia a dia 
+ 
 <div style="display: inline_block">
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

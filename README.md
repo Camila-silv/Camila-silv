@@ -46,9 +46,3 @@
 <p align="center">"As borboletas nos ensinam que, para evoluir, é preciso passar por uma grande metamorfose"</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Camila-silv/Camila-silv/output/snake.svg" alt="Snake animation" />
-
-###  
